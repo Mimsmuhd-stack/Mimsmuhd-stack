@@ -30,7 +30,7 @@ I’m an aspiring **Cybersecurity Analyst** focused on **Security Operations (SO
 ---
 
 ## 📂 My Cybersecurity Project Repositories
-- **Splunk Frothly Security Project** →  Real-world SIEM analysis projects with SPL queries
+- [**Splunk Frothly Security Project**](https://github.com/Mimsmuhd-stack/Security-Monitoring-with-Splunk) →  Real-world SIEM analysis projects with SPL queries
 
 ---
 
